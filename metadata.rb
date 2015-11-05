@@ -1,0 +1,7 @@
+name 'windows_audit'
+maintainer 'The Authors'
+maintainer_email 'you@example.com'
+license 'all_rights'
+description 'Installs/Configures windows_audit'
+long_description 'Installs/Configures windows_audit'
+version '0.1.0'
